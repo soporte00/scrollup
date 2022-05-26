@@ -1,0 +1,15 @@
+.scrollupbtn{
+    position: fixed;
+    bottom: 2rem;
+    right:2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: brown;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+    width: 2rem;
+    height: 1.7rem;
+}
+
+.undisplay{display: none;}
